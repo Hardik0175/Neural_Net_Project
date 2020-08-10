@@ -53,7 +53,7 @@ Used h2o Library for running the deeplearning model with 7 Hidden Layer 100 Neur
 ## Derivation from Confusion Matrix for all the models using Random Forest
 ![Not Found](Images/Confusion_Matrix_Results_Random%20Forest.PNG)
 
-### Although the accuracy of Random Forest is good but still it is better for DNN
+### Although the accuracy of Random Forest is good but still DNN's accuracy is better
 
 ## Predicted Hotspot for Model 1
 ![Not Found](Images/MAP.png)
