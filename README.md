@@ -44,11 +44,16 @@ register_google(key = "[your key]", write = TRUE)
 Total number of points on the maps are 3975 which can become hotspot. 
 
 ## Model Design
-Used h2o Library for running the deeplearning model 
+Used h2o Library for running the deeplearning model with 7 Hidden Layer 100 Neuron each
 ![Not Found](Images/DNN_Model.PNG)
 
 ## Derivation from Confusion Matrix for all the models 
 ![Not Found](Images/Confusion_Matrix_Results.PNG)
+
+## Derivation from Confusion Matrix for all the models using Random Forest
+![Not Found](Images/Confusion_Matrix_Results_Random Forest.PNG)
+
+### Although the accuracy of Random Forest is good still for DNN it is better
 
 ## Predicted Hotspot for Model 1
 ![Not Found](Images/MAP.png)
