@@ -44,6 +44,7 @@ register_google(key = "[your key]", write = TRUE)
 Total number of points on the maps are 3975 which can become hotspot. 
 
 ## Model Design
+Used h2o Library for running the deeplearning model 
 ![Not Found](Images/DNN_Model.PNG)
 
 ## Derivation from Confusion Matrix for all the models 
