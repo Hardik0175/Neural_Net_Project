@@ -32,6 +32,7 @@ register_google(key = "[your key]", write = TRUE)
 ## Model Design
 Used h2o Library for running the deeplearning model with 7 Hidden Layer 100 Neuron each.
 Learning Rate is 0.001 and activation is "RectifierWithDropout"
+
 ![Not Found](Images/DNN_Model.PNG)
 
 ## Total 8 Models:
