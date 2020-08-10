@@ -39,7 +39,7 @@ register_google(key = "[your key]", write = TRUE)
 7. Around 88.88% Training and 11.12% Testing.
 8. Around 90% Training and 10% Testing.
 
-__It is important to note that the number of testing data has to be kept same for a interval because we have a predined number of points on map which can't be changed.
+"It is important to note that the number of testing data has to be kept same for a interval because we have a predined number of points on map which can't be changed."
 
 Total number of points on the maps are 3975 which can become hotspot. 
 
