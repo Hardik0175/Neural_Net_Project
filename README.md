@@ -23,7 +23,7 @@ register_google(key = "[your key]", write = TRUE)
 ## Los Angeles MAP
 ![Not Found](Images/LA_map_AND_Grid.png)
 
-## Intersection of Grid and LA MAP
+## Intersection of Grid and Los Angeles MAP
 ![Not Found](Images/Intersection_LA_MAP.png)
 
 ## Remove the points with no accidents in the entire data
