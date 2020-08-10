@@ -30,7 +30,8 @@ register_google(key = "[your key]", write = TRUE)
 ![Not Found](Images/Filtered_Intersection_LA_MAP.png)
 
 ## Predicted Hotspot
-<img src="Images/MAP.png" width = "1000">
+![Not Found](Images/MAP.png)
 
 ## Real Hotspot
-<img src="Images/MAP_actual.png" width = "800">
+![Not Found](Images/MAP_actual.png)
+
