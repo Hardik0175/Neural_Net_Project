@@ -5,7 +5,6 @@ A road traffic accident is one of the serious problems related to normal daily l
 
 ## Pre-requirement 
 
-The web framework used
 * [R](https://www.r-project.org/) - Used to create DNN model
 * [Google Maps Static Api ](https://developers.google.com/maps/documentation) - Used for final plotting of predicted hotspots
 
