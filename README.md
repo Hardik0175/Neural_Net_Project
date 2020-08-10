@@ -29,8 +29,26 @@ register_google(key = "[your key]", write = TRUE)
 ## Remove the points with no accidents in the entire data
 ![Not Found](Images/Filtered_Intersection_LA_MAP.png)
 
-## Predicted value
-<img src="Images/MAP.png" width = "1000">
+## Total 8 Models:
+1. Around 60% Training and 40% Testing.
+2. Around 75% Training and 25% Testing.
+3. Around 80% Training and 20% Testing.
+4. Around 83% Training and 17% Testing.
+5. Around 85% Training and 15% Testing.
+6. Around 87.5% Training and 12.5% Testing.
+7. Around 88.88% Training and 11.12% Testing.
+8. Around 90% Training and 10% Testing.
 
-## Predicted value
-<img src="Images/MAP_actual.png" width = "800">
+### It is important to note that the number of testing data has to be kept the same for an interval because we have a predefined number of points on the map which can't be changed.
+
+Total number of points on the maps are 3975 which can become hotspot. 
+
+## Derivation from Confusion Matrix for all the models 
+![Not Found](Images/Confusion_Matrix_Results.png)
+
+## Predicted Hotspot
+![Not Found](Images/MAP.png)
+
+## Real Hotspot
+![Not Found](Images/MAP_actual.png)
+
