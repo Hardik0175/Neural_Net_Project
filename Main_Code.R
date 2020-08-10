@@ -262,3 +262,4 @@ show_ggmap <- function(plot){
 
 show_ggmap(intersection_re[as.logical(as.integer(as.character(dnn_prediction_list[[2]]$predict))),])
 
+show_ggmap(intersection_re[as.logical(as.integer(as.character(test_list[[2]]$hotspot))),])
