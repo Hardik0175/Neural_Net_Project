@@ -12,7 +12,7 @@ The web framework used
 
 ## Step to run
 1. Pull the code and Setup R studio
-2. Change Path for files in code (one for Data file and other for using Map shapefile file)
+2. Change Path for files in code (one for Data file and other for using Map shape file)
 3. Download the libraries that are not installed in R Like ggmap, h2o, and any other library that is required.
 4. Activate the Google Map Api from google console and run this command in Console
 ```R
@@ -45,6 +45,7 @@ Total number of points on the maps are 3975 which can become hotspot.
 
 ## Model Design
 Used h2o Library for running the deeplearning model with 7 Hidden Layer 100 Neuron each.
+Learning Rate is 0.001 and activation is "RectifierWithDropout"
 ![Not Found](Images/DNN_Model.PNG)
 
 ## Derivation from Confusion Matrix for all the models 
