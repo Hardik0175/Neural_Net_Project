@@ -195,7 +195,7 @@ dnn_performance <- data.frame(PPV = 0,TPR = 0,NPV = 0,TNR = 0,accuracy = 0,F1 = 
 
 
 ## --------- Using Random Forest and DNN  --------- ## 
-for(i in 1 : 2){
+for(i in 1 : 8){
   train_frame <- train_list[[i]]
   test_frame <- test_list[[i]]
   
