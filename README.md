@@ -10,10 +10,6 @@ The web framework used
 * [Google Maps Static Api ](https://developers.google.com/maps/documentation) - Used for final plotting of predicted hotspots
 
 
-## 
-
-
-
 ## Step to run
 1. Pull the code and Setup R studio
 2. Change Path for files in code (one for Data file and other for using Map shapefile file)
@@ -24,8 +20,13 @@ register_google(key = "[your key]", write = TRUE)
 ```
 5. Run the Code and Loading of Maps will take some time.
 
+## Los Angeles MAP
 ![Not Found](Images/LA_MAP.png)
+
+## Grid 100x100
 ![Not Found](Images/Grid.png)
+
+## Intersection of Grid and LA MAP
 ![Not Found](Images/Intersection_LA_MAP.png)
 ![Not Found](Images/Filtered_Intersection_LA_MAP.png)
 ![v](Images/MAP.png)
