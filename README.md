@@ -21,12 +21,13 @@ register_google(key = "[your key]", write = TRUE)
 5. Run the Code and Loading of Maps will take some time.
 
 ## Los Angeles MAP
-![Not Found](Images/LA_MAP.png)
-
-## Grid 100x100
-![Not Found](Images/Grid.png)
+![Not Found](Images/LA_map_AND_Grid.png)
 
 ## Intersection of Grid and LA MAP
 ![Not Found](Images/Intersection_LA_MAP.png)
+
+## Remove the points with no accidents in the entire data
 ![Not Found](Images/Filtered_Intersection_LA_MAP.png)
+
+## Predicted value
 ![v](Images/MAP.png)
