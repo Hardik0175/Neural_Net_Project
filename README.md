@@ -25,4 +25,4 @@ register_google(key = "[your key]", write = TRUE)
 5. Run the Code and Loading of Maps will take some time.
 
 
-![alt text](https://github.com/Hardik0175/Neural_Net_Project/Images/Master/MAP.png?raw=true)
+![alt text](https://github.com/Hardik0175/Neural_Net_Project/blob/Images/Master/MAP.png?raw=true)
