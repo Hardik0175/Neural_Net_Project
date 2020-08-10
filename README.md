@@ -29,8 +29,8 @@ register_google(key = "[your key]", write = TRUE)
 ## Remove the points with no accidents in the entire data
 ![Not Found](Images/Filtered_Intersection_LA_MAP.png)
 
-## Predicted value
+## Predicted Hotspot
 <img src="Images/MAP.png" width = "1000">
 
-## Predicted value
+## Real Hotspot
 <img src="Images/MAP_actual.png" width = "800">
