@@ -30,7 +30,7 @@ register_google(key = "[your key]", write = TRUE)
 ![Not Found](Images/Filtered_Intersection_LA_MAP.png)
 
 ## Predicted value
-<img src="Images/MAP.png" width = "200">
+<img src="Images/MAP.png" width = "1000">
 
 ## Predicted value
-![Not Found](Images/MAP_actual.png)
+<img src="Images/MAP_actual.png" width = "1000">
