@@ -24,7 +24,5 @@ register_google(key = "[your key]", write = TRUE)
 ```
 5. Run the Code and Loading of Maps will take some time.
 
-Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+![alt text](https://github.com/Hardik0175/Neural_Net_Project/Images/Master/MAP.jpg?raw=true)
