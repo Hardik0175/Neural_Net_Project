@@ -43,6 +43,8 @@ register_google(key = "[your key]", write = TRUE)
 
 Total number of points on the maps are 3975 which can become hotspot. 
 
+## Model Design
+
 ## Derivation from Confusion Matrix for all the models 
 ![Not Found](Images/Confusion_Matrix_Results.PNG)
 
