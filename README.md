@@ -33,4 +33,4 @@ register_google(key = "[your key]", write = TRUE)
 <img src="Images/MAP.png" width = "1000">
 
 ## Predicted value
-<img src="Images/MAP_actual.png" width = "1000">
+<img src="Images/MAP_actual.png" width = "800">
