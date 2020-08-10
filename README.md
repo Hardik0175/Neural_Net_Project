@@ -24,5 +24,8 @@ register_google(key = "[your key]", write = TRUE)
 ```
 5. Run the Code and Loading of Maps will take some time.
 
-
-![alt text](Images/MAP.png)
+![Not Found](Images/LA_MAP.png)
+![Not Found](Images/Grid.png)
+![Not Found](Images/Intersection_LA_MAP.png)
+![Not Found](Images/FilteredIntersection_LA_MAP.png)
+![v](Images/MAP.png)
