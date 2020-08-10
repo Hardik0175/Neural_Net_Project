@@ -29,6 +29,11 @@ register_google(key = "[your key]", write = TRUE)
 ## Remove the points with no accidents in the entire data
 ![Not Found](Images/Filtered_Intersection_LA_MAP.png)
 
+## Model Design
+Used h2o Library for running the deeplearning model with 7 Hidden Layer 100 Neuron each.
+Learning Rate is 0.001 and activation is "RectifierWithDropout"
+![Not Found](Images/DNN_Model.PNG)
+
 ## Total 8 Models:
 1. Around 60% Training and 40% Testing.
 2. Around 75% Training and 25% Testing.
@@ -42,11 +47,6 @@ register_google(key = "[your key]", write = TRUE)
 ### It is important to note that the number of testing data has to be kept the same for an interval because we have a predefined number of points on the map which can't be changed.
 
 Total number of points on the maps are 3975 which can become hotspot. 
-
-## Model Design
-Used h2o Library for running the deeplearning model with 7 Hidden Layer 100 Neuron each.
-Learning Rate is 0.001 and activation is "RectifierWithDropout"
-![Not Found](Images/DNN_Model.PNG)
 
 ## Derivation from Confusion Matrix for all the models 
 ![Not Found](Images/Confusion_Matrix_Results.PNG)
