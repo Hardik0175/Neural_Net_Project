@@ -17,7 +17,7 @@ A road traffic accident is one of the serious problems related to normal daily l
 ```R
 register_google(key = "[your key]", write = TRUE)
 ```
-5. Run the Code and Loading of Maps will take some time.
+5. Run the Code and Loading of Maps could take some time.
 
 ## Los Angeles MAP
 ![Not Found](Images/LA_map_AND_Grid.png)
