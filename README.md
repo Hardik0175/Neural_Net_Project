@@ -1,7 +1,7 @@
 # Grid based Accident Prediction using DNN
 
 
-A road traffic accident is one of the serious problems related to normal daily life. The frequency of accidents is more in certain areas as compared with other areas due to various landmarks around it or the location of the area. The field of computer science has improved a lot in the recent area and it has opened various paths for solving the various problems in different fields. The grid-based approach for prediction of locational data has proven to be a successful algorithm so we will focus on the integration of grid-based models with Deep Neural Network. Also, the previous frequency of incidence can predict the accident rate in an area that can classify the area as accidental prone area so we will also use the number of incidences in the previous time for training the model corresponding to each area.
+A road traffic accident is one of the serious problems related to normal daily life. The frequency of accidents is more in certain areas as compared with other areas due to various landmarks around it or the location of the area. The field of computer science has improved a lot in the recent area and it has opened various paths for solving the various problems in different fields. The grid-based approach for the prediction of locational data has proven to be a successful algorithm so we will focus on the integration of grid-based models with Deep Neural Network. Also, the previous frequency of incidence can predict the accident rate in an area that can classify the area as accidental prone area so we will also use the number of incidences in the previous time for training the model corresponding to each area.
 
 ## Pre-requirement 
 
@@ -46,7 +46,7 @@ Learning Rate is 0.001 and activation is "RectifierWithDropout"
 
 ### It is important to note that the number of testing data has to be kept the same for an interval because we have a predefined number of points on the map which can't be changed.
 
-Total number of points on the maps are 3975 which can become hotspot. 
+The total number of points on the maps is 3975 which can become a hotspot. 
 
 ## Derivation from Confusion Matrix for all the models 
 ![Not Found](Images/Confusion_Matrix_Results.PNG)
